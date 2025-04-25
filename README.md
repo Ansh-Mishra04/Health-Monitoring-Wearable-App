@@ -22,7 +22,6 @@ To create a decentralized and secure infrastructure for real-time health monitor
 
 ## Transaction 
 
-![alt text](image.png)
-
+![alt text](image-1.png)
 
 -Contract address :     CAOROFKXJDUF5IOP2OPV5CCFDJNNYCYUOQDAUVVSNB2QOOHUPEAJT5LT
