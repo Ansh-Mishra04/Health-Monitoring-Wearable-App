@@ -1,5 +1,10 @@
 # Health Monitoring Wearable App
 
+## Contact Details
+-Email : anshmishraa.8708@gmail.com
+
+-Mobile: 7771003775
+
 ## 📄 Project Description
 This project leverages blockchain-based smart contracts (using Soroban SDK) to securely store and monitor vital health parameters from wearable devices. It ensures decentralized, tamper-proof, and transparent access to health data, enhancing both security and reliability.
 
